@@ -1,1 +1,8 @@
-# Simple website made in Django, shows posts by categories, authorization for users
+# Simple website made in Django
+
+Technologies used: Python, Django, PostgreSQL, Jinja
+
+Main features:
+User roles: user, admin
+Adding and editing posts
+Categorized posts
