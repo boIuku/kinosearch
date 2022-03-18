@@ -2,8 +2,8 @@
 
 Technologies used: Python, Django, PostgreSQL, Jinja
 
-Main features: 
-      Markup : *User roles: user, admin
-               *Adding and editing posts
-               *Categorized posts              
+Main features:
+- User roles user, admin 
+- Adding and editing posts
+- Categorized posts            
 
